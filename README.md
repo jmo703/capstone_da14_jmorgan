@@ -1,12 +1,28 @@
-Does the NFL have an officiating bias against the Raiders - A comprehensive penalty analysis
-This is my capstone for Nashville Software School, Data Analytics 14 cohort. It is a deep dive into penalties across the NFL from 2009-2025. 
+# Capstone Project: Data Analysis
 
-Link to project: https://docs.google.com/presentation/d/1EazZdi8hzvOCAKnIRyWjDODMWae3e87IWryNveFcyy4/edit?usp=sharing
+## Overview
+This project analyzes NFL penalty data from 2009 to 2025 with the primary goal of investigating whether or not there is a visible officiating bias against the Raiders. This analysis explores trends in penalty frequency, yardage, subjective vs objective calls and comparisons across seasons. While the main question is whether or not there is bias against the Raiders, ther can still be insight gained about NFL officiating.
 
-How It's Made:
-Tech used: Microsoft Excel, PowerBI, Google Slides
+## Datasets
+- Primary Dataset: nflpenalties.com
+- Supplemental Dataset: footballdb.com
 
-Manually extracted and organized data from nflpenalties.com into excel for analysis. Utilized pivot tables and lookups to perform analysis. PowerBI was used to create visuals seen in the Google Slides presentation.
+## Key Questions
+- Q1: Has there been an uneven distribution of subjective vs objective penalty calls against the Raiders?
+- Q2: Have head coaches been penalized more or less when they coach the Raiders vs when they coach other temas?
+- Q3: Has the move to Las Vegas impacted officiating against the Raiders?
 
-Lessons Learned:
-Webscraping is valuable and has the ability to safe a tremendous amount of time.
+## Tools Used
+Python, Pandas, Excel, Power BI,
+
+## Methodology
+- Data Cleaning
+- Visualizations
+- Summary
+- Data storytelling
+
+## Visuals
+https://docs.google.com/presentation/d/1EazZdi8hzvOCAKnIRyWjDODMWae3e87IWryNveFcyy4/edit?usp=sharing
+
+## Contact
+Jimmy Morgan • jmorgan22153@gmail.com • www.linkedin.com/in/james-morgan9
